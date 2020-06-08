@@ -1,2 +1,6 @@
 adding new doc
 second try
+trying diff
+
+git pull origin master
+git push origin <branch>
